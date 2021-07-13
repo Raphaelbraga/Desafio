@@ -32,3 +32,5 @@ nodemon app.js
 // teste de requisições executados com App insominia
 
 // visualizador de banco de dados mongo DB compass
+
+// Codigo de terceiros, desafio realizado como promoção de aprendizado, acompanhando tutoriais e foruns.
