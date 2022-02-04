@@ -33,4 +33,4 @@ nodemon app.js
 
 // visualizador de banco de dados mongo DB compass
 
-// Codigo de terceiros, desafio realizado como promoção de aprendizado, acompanhando tutoriais e foruns.
+// Desafio realizado em carater educativo, acompanhando tutoriais.
